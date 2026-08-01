@@ -40,6 +40,12 @@ kepada manajemen.
 ## Dashboard Preview
 ![Dashboard](dashboard-preview.png)
 
+![Dashboard](dashboard-previeweast.png)
+
+![Dashboard](dashboard-previewdiskon.png)
+
+![Dashboard](dashboard-previewdiscontinue.png)
+
 ## Struktur File
 - superstore-sales-analysis.xlsx : File analisis lengkap
 - dashboard-preview.png : Screenshot dashboard
