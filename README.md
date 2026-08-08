@@ -49,3 +49,19 @@ kepada manajemen.
 ## Struktur File
 - superstore-sales-analysis.xlsx : File analisis lengkap
 - dashboard-preview.png : Screenshot dashboard
+
+## Interactive Dashboard — Tableau Public
+
+🔗 [Lihat Dashboard Interaktif Tableau]
+(https://public.tableau.com/app/profile/zaki.ahmad6344/viz/Superstore-Sales-Analysis)
+
+Fitur dashboard:
+- Peta profit per state
+- Filter interaktif per kategori dan region  
+- Visualisasi pengaruh diskon terhadap profit
+- Perbandingan profit per customer segment
+
+## Tools yang Digunakan
+- Microsoft Excel  : Data cleaning & PivotTable
+- Tableau Public   : Interactive dashboard
+- GitHub           : Dokumentasi & portofolio
